@@ -1,0 +1,7 @@
+stack overflow can help me now
+
+A StackOverflowError means that you have a bug that's causing a function
+to be called recursively (it's calling itself and going in circles),
+or you're intentionally calling a recursive function too much,
+and your code should be rewritten in a more efficient manner.
+StackOverflowError
